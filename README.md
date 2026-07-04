@@ -1,2 +1,3 @@
-# LLM
-Zephyr的LLM学习日志
+# LLM & Diffusion
+Zephyr的LLM和Diffusion学习日志
+
